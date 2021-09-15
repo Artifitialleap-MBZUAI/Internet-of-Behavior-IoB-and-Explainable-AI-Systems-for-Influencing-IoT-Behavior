@@ -1,4 +1,4 @@
-# Internet-of-Behavior-IoB-and-Explainable-AISystems-for-Influencing-IoT-Behavior
+# Internet-of-Behavior-IoB-and-Explainable-AI-Systems-for-Influencing-IoT-Behavior
 
 
 This project is the implementation of the use case proposed in "Internet of Behavior (IoB) and Explainable AISystems for Influencing IoT Behavior" paper. An electrical power consumption IoB system that influences consumer behavior to reduce power consumption process has been built with AI time series predictive model and historical data analysis.
