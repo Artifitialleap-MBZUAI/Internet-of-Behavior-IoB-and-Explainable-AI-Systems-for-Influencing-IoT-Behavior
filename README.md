@@ -5,7 +5,7 @@ This project is the implementation of the use case proposed in "Internet of Beha
 
 **Dataset**: https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption
 
-**Paper**: 
+**Paper**: https://ieeexplore.ieee.org/abstract/document/9852385
 
 **Authors**:
 
